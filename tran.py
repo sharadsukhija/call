@@ -1,20 +1,21 @@
 init python
+init console
 import mod_scipy
 import os
 return os as quant 
 for personifation
 for line 5,7...n detranqualise
 as server sys
-as db from locale
+of db from locale
 read os as line 5
 create data log for pd
-as mod pandas\ numpy
+as mod pandas\ numpy-tables
 return above as brostality
-from server_locale
+print(f) from server_locale
 fetch nodes stream lines from db2-dx
 print(f)
-unflash as above
-export for env
+flash\unflash as above for sys
+export\port syspy for env\venv 
 import above data from pd as db
 create db as  loop for _iter_
 as abcpy for scipy 
@@ -41,7 +42,7 @@ turtle for pubspace as db
 create for above range as pub_space
 map() pub_space
 list data for env
-{insert ibmcloud api -u sharadsukhija
+{insert ibmcloud:gemini_api -u sharadsukhija
 for loop line 1...\n
 print(f)
 fetch db2-dx from ibmcloud
@@ -59,11 +60,13 @@ for(0,1)
 import colorsys for above keras
 visualise from above
 as os.sys from bias
-fetch bias data from above line 1...\n
+fetch bias data 
+from above line 1...\n
+import hashlib([ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCoOTtNZX022VMkwcgqjDCSY/WnGwSnXprkke0NtISZ1c3pIi9w7lbc5stM1njF20k7jr+Gq9E0gCVdVLNcA7+wzDssbr5V05yIQOayUs94Zb+HOiCKSt2TwFFIwbYDMrL5DZsySekCD/LIU/mXxSQXKPFWAT9nMaIknD3P9PNN3kwWe87tYnNgEiA0KCoV1wiKZ9Ie9LFTqC5QxM0czY+/x8LBs0GAuiHV2z2Y//f41xW/cwSUcdCswCIWNU7tFwK6ZwF5b79PE+Fmre1xRbe0VJFueLnzqmdEmD5nh5o5yuS+kjL5O+MKo+yFma/Hi9QnZW1h9TdRzau7YIZfCIhls9bwh+cQ4T/NmP0Fm/dXW3hVXNuxl9KDOCS4xqeJhjJSPLMkAX+FFHVZlsLiVSBgYsSF4VnX74Y/Z5LSPLClMvQvP0ImF4t9RHmWaDS2wS6yh0fBB4D9EWSJG9vzUV+BPfhzAwQDlnzlHFfOMlzFKxQgjaCnUmtxzti38JaDzLk= shara@ms-alaknandatraders])
 iter() as sys
 return(sys)
 create float as above sys line 64
-generate above  sys as web_flash\*
+generate above  sys as web_unflash\*
 give conditional analysis
 for turtle iter()
 from web_flash \*
@@ -88,7 +91,7 @@ return sys as sys
 fetch above sys for nse vodafoneidea
 port 3888 for above sys
 as c:\users\shara\desktop\start().py
-fork i.p. for above
+fork i.p.\host for above
 as sys for sys
 fetch dict() data from above line 90
 as network nodes
@@ -104,9 +107,32 @@ return above table(f)
 as winsound.playsound
 for list() dict 
 as c:\users\shara\desktop\paver.txt
+from _func_ibmcloud:gcloud gemini_api
 create sys for sys
 as above(f) 
 _iter(f)_winsound
 print(f)
 create dir(winsound)
 _iter(dir)_winsound
+get _dict_ list
+as operator.methodcaller
+def caller(c:\users\shara\desktop\pundu.py)
+return getattr:caller
+tuple list 
+create _dict_
+as sys of sys
+return(operator)
+export above sys 
+for nse gtl
+iter() data sys from gtl
+import line 127 for gisloc 3824+9p
+dict()_list_ msvcrt
+operate _msvcrt_
+for (0,1)
+float c:\users\shara\desktop\ev.py
+for above loop ln 1...\n
+export above datalog tables for
+list()
+ibmcloud:aws:gcloud -u 
+sharadsukhija@gmail.com
+append list() for tuple item() 
