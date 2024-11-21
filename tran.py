@@ -72,7 +72,7 @@ for turtle iter()
 from web_flash \*
 fetch pub_nodes for pub_spaces 1,2,3....
 define pub_nodes as
-c:\users\shara\desktop\start().py
+c:\users\shara\desktop\psy.py
 insert quant nodes 
 for pub_nodes
 as turtle iter()
@@ -90,7 +90,7 @@ as char from mod_abcpy
 return sys as sys
 fetch above sys for nse vodafoneidea
 port 3888 for above sys
-as c:\users\shara\desktop\start().py
+as c:\users\shara\desktop\psy.py
 fork i.p.\host for above
 as sys for sys
 fetch dict() data from above line 90
@@ -116,7 +116,7 @@ create dir(winsound)
 _iter(dir)_winsound
 get _dict_ list
 as operator.methodcaller
-def caller(c:\users\shara\desktop\pundu.py)
+def caller(c:\users\shara\desktop\psy.py)
 return getattr:caller
 tuple list 
 create _dict_
