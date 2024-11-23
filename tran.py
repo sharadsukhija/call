@@ -136,3 +136,6 @@ list()
 ibmcloud:aws:gcloud -u 
 sharadsukhija@gmail.com
 append list() for tuple item() 
+fetch db 
+for dict():item():tuple()
+as num\char\var
